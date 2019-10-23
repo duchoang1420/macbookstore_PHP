@@ -1,0 +1,14 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN LOGIN:
+
+Username: admin@gmail.com
+Password: password
+
+
+
+MEMBER LOGIN:
+
+Username: user@gmail.com
+Password: code0
+
